@@ -1,5 +1,4 @@
-![banner](https://github.com/DianaKang0123/DianaKang0123/assets/156397873/cc2ad2b7-10b0-4be5-9352-d2aab6ed8ef1)
-
+![banner](https://github.com/DianaKang0123/DianaKang0123/assets/156397873/9692b2bd-2512-4a4c-b4c6-9553df39f0a4)
 
 <h1 align="center">Hi 👋, I'm Diana Kang</h1>
 <h3 align="center">A passionate developer from Korea</h3>
