@@ -1,4 +1,5 @@
-![banner1](https://github.com/DianaKang0123/DianaKang0123/assets/156397873/da50d8ed-9a19-44b1-b491-d368f7376a97)
+![github](https://github.com/DianaKang0123/DianaKang0123/assets/156397873/7aa6dd02-75e3-4a72-8f8c-6b26770ebd45)
+
 
 <h1 align="center">Hi 👋, I'm Diana Kang</h1>
 <h3 align="center">A passionate developer from Korea</h3>
@@ -19,5 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dianakang0123&show_icons=true&locale=en" alt="dianakang0123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dianakang0123&" alt="dianakang0123" /></p>
-
-![picture](https://github.com/DianaKang0123/DianaKang0123/assets/156397873/afa679fd-6df2-4673-8c78-973e945c7e49)
+![github](https://github.com/DianaKang0123/DianaKang0123/assets/156397873/01a9492b-935e-4e70-8adf-a1065cc08856)
