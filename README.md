@@ -1,6 +1,7 @@
 ![github](https://github.com/DianaKang0123/DianaKang0123/assets/156397873/7aa6dd02-75e3-4a72-8f8c-6b26770ebd45)
 
 
+
 <h1 align="center">Hi 👋, I'm Diana Kang</h1>
 <h3 align="center">A passionate developer from Korea</h3>
 
@@ -21,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dianakang0123&" alt="dianakang0123" /></p>
 
-![github](https://github.com/DianaKang0123/DianaKang0123/assets/156397873/01a9492b-935e-4e70-8adf-a1065cc08856)
+![github (1)](https://github.com/DianaKang0123/DianaKang0123/assets/156397873/24554132-e5be-463a-b9f9-c05abc134bc8)
