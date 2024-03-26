@@ -71,8 +71,7 @@
   </a> 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianakang0123&show_icons=true&theme=dracula)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dianakang0123&show_icons=true&locale=en" alt="dianakang0123" /></p>
+<div style="display:flex">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianakang0123&show_icons=true&theme=dracula)</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dianakang0123&" alt="dianakang0123" /></p>
 
