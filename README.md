@@ -71,6 +71,9 @@
   </a> 
 </p>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianakang0123&show_icons=true&theme=dracula)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dianakang0123&" alt="dianakang0123" /></p>
