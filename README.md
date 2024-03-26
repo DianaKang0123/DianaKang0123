@@ -71,7 +71,7 @@
   </a> 
 </p>
 
-<div style="display:flex">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianakang0123&show_icons=true&theme=dracula)</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianakang0123&show_icons=true&theme=dracula)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dianakang0123&" alt="dianakang0123" /></p>
 
